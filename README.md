@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Yasmin 👋</h1>
+## Hi there, I'm Yasmin 👋
 #### I'm a Science and Systems Engineering student from Guatemala
 - 🔭 I’m currently working as a Mid Level Developer for Allied Global
 - 🌱 I’m currently learning Data Analysis and Automation Development
